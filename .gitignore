@@ -1,0 +1,106 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Data directories (adjust paths as necessary)
+data/uploaded_videos/
+
+
+
+
+# Ignore secrets or environment files
+.env
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Ignore compiled Cython files
+*.cpp
+*.c
+
+# Ignore binary files
+*.exe
+*.dll
+*.deb
+*.tar.gz
+*.egg
+*.whl
+
+# Ignore coverage reports
+htmlcov/
+
+# Ignore any other sensitive or large files
+*.sqlite3
+*.db
+
+# Ignore images and videos (adjust if you want to include specific files)
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png

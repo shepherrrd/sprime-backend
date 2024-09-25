@@ -1,0 +1,31 @@
+[
+  {
+    "timestamp": "0.0-30.0",
+    "actors": [
+      {
+        "actor_id": 1,
+        "name": "Eric Winter",
+        "height": "6'2\"",
+        "profile_picture": "https://images.hellomagazine.com/horizon/landscape/949a32d9f11b-eric-winter-close-up-monte-carlo-tv-festival.jpg?tx=c_limit,w_960"
+      },
+      {
+        "actor_id": 2,
+        "name": "Mekia Cox",
+        "height": "5'5\"",
+        "profile_picture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRkt3GicScNXHapDEIIjNw15RCgBtZOpiSfrB-oowDeUzIJgJbhhzBpRaFvBfHEjrt90scg7xM6g56RfEE"
+      },
+      {
+        "actor_id": 3,
+        "name": "Mellisa O'Neil",
+        "height": "5'4\"",
+        "profile_picture": "https://images.hellomagazine.com/horizon/landscape/7e8b3becbe4c-the-rookie-melissa.jpg?tx=c_limit,w_960"
+      },
+      {
+        "actor_id": 4,
+        "name": "Nathan Fillion",
+        "height": "6'2\"",
+        "profile_picture": "https://static.wikia.nocookie.net/disney/images/c/c6/Nathan_Fillion.jpg/revision/latest?cb=20180724195130"
+      }
+    ]
+  }
+]
